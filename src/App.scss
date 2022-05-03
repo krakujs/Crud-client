@@ -1,0 +1,23 @@
+.App{
+  
+  .form{
+    
+    position: absolute;
+    z-index: 1;
+    background-color: white;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    
+    }
+
+  .list{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+   
+  }
+ 
+}
